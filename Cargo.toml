@@ -1,7 +1,7 @@
 [package]
+authors = ["James Waples <jamwaffles@gmail.com>"]
 name = "vec-test"
 version = "0.1.0"
-authors = ["James Waples <jamwaffles@gmail.com>"]
-
 [dependencies]
+alga = "0.7.2"
 nalgebra = "0.16.4"
