@@ -1,0 +1,7 @@
+[package]
+name = "vec-test"
+version = "0.1.0"
+authors = ["James Waples <jamwaffles@gmail.com>"]
+
+[dependencies]
+nalgebra = "0.16.4"
